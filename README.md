@@ -46,9 +46,20 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2023-12-19 152347](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/7a193d12-cffc-4ccf-b298-1c49a637580a)
+![Screenshot 2023-12-19 152402](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/2f9cb361-8c8c-4255-b138-00480b77d1e4)
+![Screenshot 2023-12-19 152428](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/e030ef8c-2bbd-43ad-b0b7-dee830575b1d)
+![Screenshot 2023-12-19 152447](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/57fcc94f-bd9a-4956-a247-ca24cf10be3b)
+![Screenshot 2023-12-19 152505](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/42515736-f55f-49ba-b9cc-0a96f1b5871e)
 
-### Name:
-### Register Number:
+## Output:
+![Screenshot 2023-12-19 152534](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/7cdd5bb6-c9b1-4db6-a629-f0d5a3c772b3)
+![Screenshot 2023-12-19 152543](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/abb3803f-041b-4d81-a299-08d84181f23b)
+![Screenshot 2023-12-19 152556](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/b484e0d0-6522-490d-b2cb-96e6f5dd1dae)
+
+
+### Name: SUMAN.G
+### Register Number: 23014256
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
