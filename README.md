@@ -1,6 +1,6 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 19\12\2023
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,23 +34,16 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2023-12-19 153456](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/d5ee9cab-dec0-42a3-9c50-1e54f1661a1c)
+![Screenshot 2023-12-19 153512](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/ac57c850-bcf3-4c3a-9b8a-d46461fbb5a5)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2023-12-19 153529](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/6578a1a6-db3d-4b38-a894-82cc7ae732e0)
+![Screenshot 2023-12-19 153544](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/7588ea34-b63c-461f-aa33-2acce4a3d2dc)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
-
-## Output:
-![Screenshot 2023-12-19 152347](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/7a193d12-cffc-4ccf-b298-1c49a637580a)
-![Screenshot 2023-12-19 152402](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/2f9cb361-8c8c-4255-b138-00480b77d1e4)
-![Screenshot 2023-12-19 152428](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/e030ef8c-2bbd-43ad-b0b7-dee830575b1d)
-![Screenshot 2023-12-19 152447](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/57fcc94f-bd9a-4956-a247-ca24cf10be3b)
-![Screenshot 2023-12-19 152505](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/42515736-f55f-49ba-b9cc-0a96f1b5871e)
+![Screenshot 2023-12-19 153603](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/823073d0-347a-46bf-9205-abf3abcff791)
+![Screenshot 2023-12-19 153617](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/8d9b1bab-8ec1-4734-8d22-ac15376e58b4)
 
 ## Output:
 ![Screenshot 2023-12-19 152534](https://github.com/sumanguna/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146914442/7cdd5bb6-c9b1-4db6-a629-f0d5a3c772b3)
